@@ -1,4 +1,4 @@
-from item import Item
+from items import Item
 from dice import Dice
 
 

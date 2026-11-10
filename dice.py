@@ -1,8 +1,10 @@
+
 import random
 
 
 class Dice:
     """Represent a dice with a configurable number of sides."""
+
     def __init__(self, sides: int = 6):
         """
         Initialize a dice with a specified number of sides.
