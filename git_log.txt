@@ -1,0 +1,33 @@
+* 66546d5 (HEAD -> Hovedbranch, origin/Marita, origin/Hovedbranch, Marita) added battle and game. updated all classes so they work together. documented the classes in notebook, and performed tests.
+* e8692b6 update test warrior
+* 165f04e Task 4: mage and warrior and tests
+* 61254ea Rename task1.py and test notebook
+* 197654a task1 and test task1
+*   2f3e0dd Merge pull request #4 from MaritaElk/Marita
+|\  
+| * 3dd40a2 update requirements.txt
+|/  
+*   027b677 Merge pull request #3 from MaritaElk/Marita
+|\  
+| * 6ddc267 update jupyter NB with tests
+| * 4c3857b update archery_weapon.py with minimum damage
+| * c8539bc updating weapon.py with minimum damage.
+| * 38f91fa Added and tested potion.py
+| * a67b1db Added and tested archery_weapon.py
+| * 612c21e Added and tested armor.py
+| * 3fc3148 Oppdatert item and added weapon.py
+| * 8468729 Add item.py
+|/  
+*   891ecfb Merge pull request #2 from MaritaElk/Marita
+|\  
+| * c2716fd Oppdatert docstring on dise.py
+| * c0a9890 Testing av dices in jupyter NB
+| * bf107d6 Creating class dice and testning in Jupyter NB
+|/  
+*   bdd0f49 Merge pull request #1 from MaritaElk/Marita
+|\  
+| * 4264483 Add game simulator version 1
+|/  
+* 2f0b4c7 blank fil
+* 9edf47f Added ipynb and Requirements
+* 7b679ab (origin/main, origin/HEAD, main) Initial commit
